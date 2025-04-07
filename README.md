@@ -2,7 +2,7 @@
 
 ## 🛠️ Technologies Used  
 - **Programming & ML:** Python, Machine Learning  
-- **Big Data Processing:** PySpark  
+- **Big Data Processing:** PySpark & Pandas
 - **Interactive Visualizations & Analysis:** Streamlit  
 - **Dashboarding:** Microsoft Power BI  
 
